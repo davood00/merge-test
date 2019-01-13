@@ -4,7 +4,7 @@ import java.awt.*;
 
 class MainClass {
     public static void main(String[] args) {
-        System.err.println("Error");
+        System.err.println("Error + 1");
         for (int j = 0; j < 10; j++) {
             System.out.println(j);
         }
